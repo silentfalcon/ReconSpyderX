@@ -87,7 +87,7 @@ cd ReconSpyderX
 ### Install dependencies
 ```bash
 chmod +x reconspyderx.sh tools.sh
-bash tools.sh
+./tools.sh
 ```
 
 Make sure your Go bin path is exported:
@@ -99,7 +99,7 @@ export PATH=$PATH:$HOME/go/bin
 
 ## 🚀 Usage
 ```bash
-bash reconspyderx.sh -u target.com
+./reconspyderx.sh -u target.com
 ```
 
 All results will be saved in a folder named `target.com-recon/`.
