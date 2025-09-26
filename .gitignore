@@ -1,0 +1,22 @@
+# Ignore recon output directories and temporary files
+*-recon/
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Node/npm (if added later)
+node_modules/
+
+# Python virtualenv
+venv/
+__pycache__/
+
+# Go bin (user local)
+$GOBIN
+$HOME/go/bin
+
+# Personal secrets (never commit)
+*.env
+secrets.*
