@@ -1,9 +1,8 @@
 <h1 align="center">
-  <br>
-  <a href="https://github.com/silentfalcon/ReconSpyderX"><img src="https://raw.githubusercontent.com/silentfalcon/ReconSpyderX/main/images/banner.png" alt="ReconSpyderX"></a>
+  <a href="https://github.com/silentfalcon/ReconSpyderX"><img src="logo.png" alt="ReconSpyderX" height="200"></a>
   <br>
   ReconSpyderX
-  <br>
+  
 </h1>
 
 <p align="center">
@@ -20,11 +19,35 @@
     <img src="https://img.shields.io/badge/doc-wiki-blue.svg">
   </a>
 </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vyankatesh-shinde-%F0%9F%87%AE%F0%9F%87%B3-2bb222219/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/rootxploit_0x">
+    <img src="https://img.shields.io/badge/X-Connect-blue?logo=X&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/rootxploit.0x/">
+    <img src="https://img.shields.io/badge/Instagram-Connect-Red?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://tryhackme.com/r/p/rootxploit.0x">
+    <img src="https://img.shields.io/badge/TryHackMe-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://medium.com/@rootxploit0x">
+    <img src="https://img.shields.io/badge/Medium-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+</div>
 
 ---
 
-**ReconSpyderX** is an automated reconnaissance tool built for **bug bounty hunters** and **penetration testers**.  
-It streamlines reconnaissance by integrating subdomain enumeration, HTTP probing, vulnerability scanning, dorking, and OSINT into a single workflow.
+🚀 **ReconSpyderX** is your all-in-one 🔍 reconnaissance powerhouse for **bug bounty hunters** 🕵️‍♂️ and **penetration testers** 💻.  
+It automates the boring stuff and supercharges your workflow ⚡ by combining:  
+🌐 Subdomain Discovery,  
+🔗 HTTP Probing,  
+🛡️ Vulnerability Scanning,  
+🕸️ Dorking Tricks & 
+📊 OSINT Gathering —  
+all in one streamlined tool that saves time ⏳ and delivers results 📈.
+
 
 ---
 
@@ -130,3 +153,11 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ---
 
 <p align="center">Made with ❤️ by <a href="https://github.com/silentfalcon">RootXploit.0x</a></p>
+
+<div align="center">
+  <p>⭐️ Thank You For Visiting!</p>
+</div>
+</br>
+<p align="center">
+<a>🌱</a>
+</p>
